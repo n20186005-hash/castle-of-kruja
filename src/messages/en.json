@@ -1,0 +1,291 @@
+{
+  "meta": {
+    "title": "Castle of Kruja – Krujë, Albania",
+    "description": "Complete travel guide to the Castle of Kruja. Learn about this historic Albanian castle, including location, views, access, and visitor information."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Castle of Kruja",
+    "subtitle": "Historic Castle · Krujë, Albania",
+    "rating": "4.6",
+    "reviewCount": "9,953 reviews",
+    "type": "Historic Castle",
+    "openMaps": "View on Google Maps",
+    "mapsLink": "https://maps.app.goo.gl/z3Ak17fXyWwwntcB9"
+  },
+  "intro": {
+    "title": "Discover the Castle of Kruja",
+    "description": "The Castle of Kruja (Kalaja e Krujës) is a historic castle in the city of Krujë, Albania. It was the center of Skanderbeg's rebellion against the Ottoman Empire. The castle houses the Skanderbeg Museum, the National Ethnographic Museum, and the remains of the Fatih Sultan Mehmed mosque, offering visitors a deep dive into Albanian history.",
+    "visitGuide": {
+      "title": "Visit Tips",
+      "items": [
+        "Explore the Old Bazaar of Kruja on your way up to the castle.",
+        "Don't miss the Skanderbeg Museum located inside the castle walls.",
+        "Wear comfortable shoes as the pathways are made of cobblestones.",
+        "Enjoy panoramic views of the surrounding mountains and the Adriatic Sea."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Skanderbeg Museum",
+        "National Ethnographic Museum",
+        "Historic Old Bazaar",
+        "Panoramic views of Krujë"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "About Castle of Kruja",
+    "sections": [
+      {
+        "id": "history",
+        "title": "History & Heritage",
+        "content": "The Castle of Kruja was built in the 5th or 6th century and became famous during the 15th century as the headquarters of Gjergj Kastrioti Skanderbeg. Under his leadership, the castle withstood three massive sieges by the Ottoman Empire, becoming a symbol of Albanian resistance."
+      },
+      {
+        "id": "geography",
+        "title": "Location & Landscape",
+        "content": "Perched on a rocky hill above the city of Krujë, the castle offers a commanding view of the surrounding landscape. Its strategic location allowed defenders to monitor approaching armies and control the trade routes."
+      },
+      {
+        "id": "architecture",
+        "title": "Architecture & Surroundings",
+        "content": "The castle features thick defensive walls, watchtowers, and the remains of historical structures. Inside, the modern Skanderbeg Museum, designed by Enver Hoxha's daughter, blends traditional Albanian architecture with modern elements."
+      },
+      {
+        "id": "protection",
+        "title": "Cultural Significance",
+        "content": "Today, the Castle of Kruja is one of Albania's most important cultural and historical landmarks. It attracts thousands of visitors annually who come to learn about the country's national hero and its rich heritage."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "What are the opening hours of the Castle of Kruja?",
+        "answer": "The castle grounds are generally open from morning until evening. The museums inside have specific visiting hours, typically from 9:00 AM to 6:00 PM."
+      },
+      {
+        "question": "Is there an entrance fee?",
+        "answer": "Walking around the castle grounds is free, but there is an entrance fee for the Skanderbeg Museum and the Ethnographic Museum."
+      },
+      {
+        "question": "Are there guided tours available?",
+        "answer": "Yes, guided tours are available at the museums and can provide a richer understanding of the history."
+      },
+      {
+        "question": "Is the site accessible for wheelchair users?",
+        "answer": "Due to the historic nature of the site and cobblestone paths, accessibility can be challenging for wheelchair users."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Kalaja e Krujës",
+    "type": "Attraction Type",
+    "typeValue": "Historic Castle",
+    "country": "Country",
+    "countryValue": "Albania",
+    "city": "City",
+    "cityValue": "Krujë",
+    "googleRating": "Google Rating",
+    "googleRatingValue": "4.6 (9,953)",
+    "address": "Address",
+    "addressValue": "Rruga Kala, Krujë, Albania",
+    "telephone": "Contact Phone",
+    "telephoneValue": "N/A",
+    "accessibility": "Accessibility",
+    "accessibilityValue": "Limited due to cobblestones",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "GQ4V+WQ Krujë, Albania"
+  },
+  "hours": {
+    "title": "Visiting Hours",
+    "park": "Castle Access",
+    "parkTime": "Open daily",
+    "bestTime": "Best Time to Visit",
+    "bestTimeSpring": "Spring: Pleasant weather for exploring",
+    "bestTimeSummer": "Summer: Busy but great for photography",
+    "bestTimeAutumn": "Autumn: Mild temperatures",
+    "bestTimeWinter": "Winter: Quiet and peaceful",
+    "tip": "Visit early in the morning to avoid the crowds and enjoy the best lighting."
+  },
+  "tickets": {
+    "title": "Admission Information",
+    "park": "Castle Grounds",
+    "parkPrice": "Free public access",
+    "parking": "Parking",
+    "parkingPrice": "Paid parking available nearby",
+    "guided": "Museums",
+    "guidedPrice": "Entrance fee required"
+  },
+  "transport": {
+    "title": "How to Get Here",
+    "fromCenter": "From Tirana",
+    "fromCenterDesc": "A 45-minute drive from the capital city.",
+    "fromStation": "From Krujë Center",
+    "fromStationDesc": "A short walk up the hill through the Old Bazaar.",
+    "fromAirport": "From Tirana International Airport",
+    "fromAirportDesc": "About 30-40 minutes by taxi or rental car.",
+    "publicTransport": "Public Transport",
+    "publicTransportDesc": "Minibuses (furgons) run regularly between Tirana and Krujë.",
+    "walking": "Walking",
+    "walkingDesc": "The castle is easily accessible on foot from the town center.",
+    "driving": "Driving",
+    "drivingDesc": "Follow signs to Krujë; parking is available near the entrance."
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "The Beauty of Castle of Kruja",
+    "captions": [
+      "Castle View",
+      "Skanderbeg Museum",
+      "Old Bazaar",
+      "Historic Walls",
+      "Panoramic Views",
+      "Ethnographic Museum",
+      "Cobblestone Paths",
+      "Castle Ruins",
+      "Mountain Backdrop",
+      "Traditional Crafts",
+      "Evening Light",
+      "Tower Details",
+      "Scenic Overlook"
+    ],
+    "viewAll": "View on Google Maps",
+    "showAll": "View All Photos",
+    "showLess": "Show Less"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Reviews can be viewed via Google Maps.",
+    "moreReviews": "View more reviews on Google Maps",
+    "items": [
+      {
+        "name": "Sarah J.",
+        "rating": 5,
+        "date": "2026-05-12",
+        "text": "An amazing piece of history! The views from the castle are spectacular, and the Skanderbeg Museum is very informative."
+      },
+      {
+        "name": "Mark T.",
+        "rating": 5,
+        "date": "2026-04-20",
+        "text": "Walking through the Old Bazaar to get to the castle feels like stepping back in time. Highly recommend a visit."
+      },
+      {
+        "name": "Elena R.",
+        "rating": 4,
+        "date": "2026-03-15",
+        "text": "Beautiful location and rich history. Wear comfortable shoes as the cobblestones can be tricky."
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "date": "2026-02-10",
+        "text": "A must-see in Albania. The Ethnographic Museum gives a great look into traditional Albanian life."
+      },
+      {
+        "name": "Anna K.",
+        "rating": 5,
+        "date": "2025-11-05",
+        "text": "Stunning architecture and incredible views. We spent hours just wandering around the castle grounds."
+      },
+      {
+        "name": "Tom H.",
+        "rating": 4,
+        "date": "2025-10-18",
+        "text": "Great historical site. The museum is well laid out and the whole area is very photogenic."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Map Location",
+    "subtitle": "GQ4V+WQ Krujë, Albania",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "brandName": "Castle of Kruja",
+    "brandSubtitle": "Historic Castle · Krujë, Albania",
+    "rights": "© 2026 Independent Tourism Research Project · All Rights Reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Official Resources & Information",
+    "officialLinks": {
+      "akt": "National Tourism Agency of Albania (AKT)",
+      "iktk": "National Institute of Cultural Heritage (IKTK)",
+      "arkiva": "General Directorate of Archives (DPA)",
+      "asig": "State Authority for Geospatial Information (ASIG)",
+      "visa": "Ministry for Europe and Foreign Affairs - Visa Regime"
+    },
+    "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies."
+  },
+  "officialManagement": {
+    "title": "About Castle of Kruja",
+    "text": "The Castle of Kruja is a protected national monument, preserving the rich history and heritage of Albania."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: June 2026",
+    "sections": [
+      {
+        "heading": "Information Collection",
+        "content": "When you visit our website, we may automatically collect basic information about your device, browser, and browsing behavior to provide a better user experience. This information does not contain your personal identity."
+      },
+      {
+        "heading": "Use of Cookies",
+        "content": "We use cookies to analyze website traffic and optimize page content. You can manage your preferences at any time through the Cookie Settings option at the bottom of our site."
+      },
+      {
+        "heading": "Data Security and Protection",
+        "content": "We are committed to protecting the security of your privacy data and will not sell, rent, or trade your browsing data to third-party commercial organizations."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: June 2026",
+    "sections": [
+      {
+        "heading": "Website Content and Use",
+        "content": "This website provides travel, transport, and historical information about the Castle of Kruja. All content is for reference only. Actual opening hours and attraction information may change at any time; please refer to official announcements."
+      },
+      {
+        "heading": "Intellectual Property",
+        "content": "The text, images, and designs on this website are protected by copyright. Without explicit written permission, no one may use the website content for commercial purposes."
+      },
+      {
+        "heading": "Disclaimer",
+        "content": "We strive to ensure the accuracy and timeliness of the information, but we do not assume legal responsibility for travel delays or losses caused directly or indirectly by using the information provided on this website."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Manage your cookie preferences.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "Necessary for basic website functionality and cannot be disabled.",
+      "badge": "Always Active"
+    },
+    "analytics": {
+      "title": "Analytics",
+      "description": "Help us understand visitor behavior and improve the website."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Used for cross-site tracking and delivering personalized ads."
+    },
+    "save": "Save Settings"
+  }
+}

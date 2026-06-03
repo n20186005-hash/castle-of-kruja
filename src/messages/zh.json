@@ -1,0 +1,291 @@
+{
+  "meta": {
+    "title": "克鲁亚城堡 (Castle of Kruja) – 克鲁亚, 阿尔巴尼亚",
+    "description": "克鲁亚城堡完整旅游指南。了解这座历史悠久的阿尔巴尼亚城堡，包括位置、景观、交通和游览信息。"
+  },
+  "header": {
+    "home": "首页",
+    "gallery": "图库",
+    "reviews": "评价",
+    "map": "地图",
+    "backToHome": "返回首页"
+  },
+  "hero": {
+    "title": "克鲁亚城堡",
+    "subtitle": "历史城堡 · 克鲁亚，阿尔巴尼亚",
+    "rating": "4.6",
+    "reviewCount": "9,953 条评价",
+    "type": "历史城堡",
+    "openMaps": "在Google地图上查看位置",
+    "mapsLink": "https://maps.app.goo.gl/z3Ak17fXyWwwntcB9"
+  },
+  "intro": {
+    "title": "探索克鲁亚城堡",
+    "description": "克鲁亚城堡 (Kalaja e Krujës) 位于阿尔巴尼亚克鲁亚市，是一座历史悠久的城堡。它曾是斯坎德培反抗奥斯曼帝国统治的中心。城堡内设有斯坎德培博物馆、国家民族学博物馆以及法提赫苏丹穆罕默德清真寺的遗迹，为游客提供深入了解阿尔巴尼亚历史的机会。",
+    "visitGuide": {
+      "title": "游览建议",
+      "items": [
+        "在前往城堡的途中，探索历史悠久的克鲁亚旧巴扎。",
+        "不要错过位于城堡墙内的斯坎德培博物馆。",
+        "由于小路多为鹅卵石铺就，建议穿着舒适的鞋子。",
+        "欣赏周围群山和亚得里亚海的壮丽全景。"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "亮点",
+      "items": [
+        "斯坎德培博物馆",
+        "国家民族学博物馆",
+        "历史悠久的旧巴扎",
+        "克鲁亚市的壮丽全景"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "关于克鲁亚城堡",
+    "sections": [
+      {
+        "id": "history",
+        "title": "历史与遗产",
+        "content": "克鲁亚城堡建于5世纪或6世纪，在15世纪作为乔治·卡斯特里奥蒂·斯坎德培的总部而闻名。在他的领导下，城堡三次抵御了奥斯曼帝国的大规模围攻，成为阿尔巴尼亚抵抗精神的象征。"
+      },
+      {
+        "id": "geography",
+        "title": "位置与景观",
+        "content": "城堡高耸于克鲁亚市上方的岩石山丘上，可以俯瞰周围的壮丽景色。其战略位置使守军能够监视逼近的军队并控制贸易路线。"
+      },
+      {
+        "id": "architecture",
+        "title": "建筑与周边",
+        "content": "城堡拥有厚实的防御墙、瞭望塔以及历史建筑的遗迹。城堡内的现代斯坎德培博物馆由恩维尔·霍查的女儿设计，融合了传统阿尔巴尼亚建筑与现代元素。"
+      },
+      {
+        "id": "protection",
+        "title": "文化意义",
+        "content": "如今，克鲁亚城堡是阿尔巴尼亚最重要的文化和历史地标之一。它每年吸引成千上万的游客前来了解该国的民族英雄及其丰富的遗产。"
+      }
+    ]
+  },
+  "faq": {
+    "title": "常见问题解答",
+    "items": [
+      {
+        "question": "克鲁亚城堡的开放时间是什么？",
+        "answer": "城堡庭院通常从早到晚开放。城堡内的博物馆有特定的参观时间，通常为上午9:00至下午6:00。"
+      },
+      {
+        "question": "需要门票吗？",
+        "answer": "在城堡庭院内漫步是免费的，但参观斯坎德培博物馆和民族学博物馆需要购买门票。"
+      },
+      {
+        "question": "有导游服务吗？",
+        "answer": "是的，博物馆提供导游服务，可以帮助您更深入地了解历史。"
+      },
+      {
+        "question": "轮椅使用者可以进入吗？",
+        "answer": "由于该遗址的历史特性和鹅卵石小路，轮椅使用者的通行可能会受到限制。"
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "基础信息",
+    "officialName": "正式名称",
+    "officialNameValue": "Kalaja e Krujës",
+    "type": "景点类型",
+    "typeValue": "历史城堡",
+    "country": "国家",
+    "countryValue": "阿尔巴尼亚",
+    "city": "城市",
+    "cityValue": "克鲁亚",
+    "googleRating": "谷歌评分",
+    "googleRatingValue": "4.6 (9,953)",
+    "address": "地址",
+    "addressValue": "Rruga Kala, Krujë, 阿尔巴尼亚",
+    "telephone": "联系电话",
+    "telephoneValue": "无",
+    "accessibility": "无障碍设施",
+    "accessibilityValue": "由于鹅卵石路面，通行受限",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "GQ4V+WQ 克鲁亚 阿尔巴尼亚"
+  },
+  "hours": {
+    "title": "开放时间",
+    "park": "城堡开放",
+    "parkTime": "每天开放",
+    "bestTime": "最佳游览时间",
+    "bestTimeSpring": "春季：气候宜人，适合探索",
+    "bestTimeSummer": "夏季：游客较多，适合摄影",
+    "bestTimeAutumn": "秋季：温度适中，风景优美",
+    "bestTimeWinter": "冬季：宁静祥和",
+    "tip": "建议清晨游览以避开人群，并欣赏最佳的光影效果。"
+  },
+  "tickets": {
+    "title": "门票信息",
+    "park": "城堡庭院",
+    "parkPrice": "免费对公众开放",
+    "parking": "停车信息",
+    "parkingPrice": "附近有收费停车场",
+    "guided": "博物馆",
+    "guidedPrice": "需要购买门票"
+  },
+  "transport": {
+    "title": "交通指南",
+    "fromCenter": "从地拉那出发",
+    "fromCenterDesc": "从首都驱车约需45分钟。",
+    "fromStation": "从克鲁亚市中心",
+    "fromStationDesc": "穿过旧巴扎步行上山即可到达。",
+    "fromAirport": "从地拉那国际机场",
+    "fromAirportDesc": "乘坐出租车或租车约需30-40分钟。",
+    "publicTransport": "公共交通",
+    "publicTransportDesc": "地拉那和克鲁亚之间有定期的小巴（furgons）运行。",
+    "walking": "步行",
+    "walkingDesc": "从镇中心可以轻松步行到达城堡。",
+    "driving": "自驾",
+    "drivingDesc": "跟随指示牌前往克鲁亚；入口附近有停车场。"
+  },
+  "gallery": {
+    "title": "照片画廊",
+    "subtitle": "克鲁亚城堡之美",
+    "captions": [
+      "城堡景观",
+      "斯坎德培博物馆",
+      "旧巴扎",
+      "历史城墙",
+      "壮丽全景",
+      "民族学博物馆",
+      "鹅卵石小路",
+      "城堡遗址",
+      "群山背景",
+      "传统工艺品",
+      "傍晚景色",
+      "塔楼细节",
+      "观景台"
+    ],
+    "viewAll": "在Google地图上查看位置",
+    "showAll": "显示完整照片",
+    "showLess": "收起照片"
+  },
+  "reviews": {
+    "title": "游客评价",
+    "declaration": "评价信息可通过Google地图查看。",
+    "moreReviews": "在Google地图上查看更多评价",
+    "items": [
+      {
+        "name": "萨拉 J.",
+        "rating": 5,
+        "date": "2026-05-12",
+        "text": "令人惊叹的历史遗迹！从城堡看出去的景色非常壮观，斯坎德培博物馆的信息量很大。"
+      },
+      {
+        "name": "马克 T.",
+        "rating": 5,
+        "date": "2026-04-20",
+        "text": "穿过旧巴扎前往城堡，感觉就像时光倒流。强烈推荐参观。"
+      },
+      {
+        "name": "埃琳娜 R.",
+        "rating": 4,
+        "date": "2026-03-15",
+        "text": "美丽的位置和丰富的历史。鹅卵石路可能有些难走，建议穿舒适的鞋子。"
+      },
+      {
+        "name": "大卫 L.",
+        "rating": 5,
+        "date": "2026-02-10",
+        "text": "阿尔巴尼亚的必游之地。民族学博物馆让人很好地了解了传统的阿尔巴尼亚生活。"
+      },
+      {
+        "name": "安娜 K.",
+        "rating": 5,
+        "date": "2025-11-05",
+        "text": "令人惊叹的建筑和令人难以置信的景色。我们花了好几个小时在城堡里漫步。"
+      },
+      {
+        "name": "汤姆 H.",
+        "rating": 4,
+        "date": "2025-10-18",
+        "text": "伟大的历史遗迹。博物馆布局很好，整个地区都非常适合拍照。"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "地图位置",
+    "subtitle": "GQ4V+WQ 克鲁亚 阿尔巴尼亚",
+    "openMaps": "在Google地图上查看位置"
+  },
+  "footer": {
+    "brandName": "克鲁亚城堡",
+    "brandSubtitle": "历史城堡 · 克鲁亚，阿尔巴尼亚",
+    "rights": "© 2026 独立旅游研究项目 · 保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie 设置",
+    "officialResourcesTitle": "官方资源与资讯",
+    "officialLinks": {
+      "akt": "阿尔巴尼亚国家旅游局 (AKT)",
+      "iktk": "阿尔巴尼亚国家文化遗产研究所 (IKTK)",
+      "arkiva": "阿尔巴尼亚国家档案总局",
+      "asig": "国家地理空间信息管理局 (ASIG)",
+      "visa": "阿尔巴尼亚欧洲与外交事务部 —— 国际游客免签与签证政策查询"
+    },
+    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
+  },
+  "officialManagement": {
+    "title": "关于克鲁亚城堡",
+    "text": "克鲁亚城堡是受保护的国家古迹，保留了阿尔巴尼亚丰富的历史和遗产。"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新：2026年6月",
+    "sections": [
+      {
+        "heading": "信息收集",
+        "content": "当您访问我们的网站时，我们可能会自动收集有关您的设备、浏览器和浏览行为的基本信息，以提供更好的用户体验。此信息不包含您的个人身份。"
+      },
+      {
+        "heading": "Cookie的使用",
+        "content": "我们使用cookie来分析网站流量并优化页面内容。您可以随时通过网站底部的\"Cookie设置\"选项管理您的偏好。"
+      },
+      {
+        "heading": "数据安全与保护",
+        "content": "我们致力于保护您的隐私数据安全，不会将您的浏览数据出售、出租或交易给第三方商业组织。"
+      }
+    ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新：2026年6月",
+    "sections": [
+      {
+        "heading": "网站内容与使用",
+        "content": "本网站提供有关克鲁亚城堡的旅游、交通和历史信息。所有内容仅供参考。实际开放时间和景点信息可能随时更改；请参考官方公告。"
+      },
+      {
+        "heading": "知识产权",
+        "content": "本网站上的文本、图像和设计受版权保护。未经明确书面许可，任何人不得将网站内容用于商业目的。"
+      },
+      {
+        "heading": "免责声明",
+        "content": "我们努力确保信息的准确性和及时性，但对于因使用本网站提供的信息而直接或间接导致的旅行延误或损失，我们不承担法律责任。"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie 设置",
+    "description": "管理您的 Cookie 偏好。",
+    "essential": {
+      "title": "必要的 Cookie",
+      "description": "基本网站功能所必需的，无法禁用。",
+      "badge": "始终开启"
+    },
+    "analytics": {
+      "title": "分析",
+      "description": "帮助我们了解访问者行为并改进网站。"
+    },
+    "marketing": {
+      "title": "营销",
+      "description": "用于跨站跟踪和提供个性化广告。"
+    },
+    "save": "保存设置"
+  }
+}

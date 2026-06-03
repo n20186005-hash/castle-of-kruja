@@ -1,0 +1,291 @@
+{
+  "meta": {
+    "title": "Kalaja e Krujës – Krujë, Shqipëria",
+    "description": "Udhëzues i plotë udhëtimi për Kalanë e Krujës. Mësoni rreth kësaj kalaje historike shqiptare, përfshirë vendndodhjen, pamjet, aksesin dhe informacionin për vizitorët."
+  },
+  "header": {
+    "home": "Kreu",
+    "gallery": "Galeria",
+    "reviews": "Vlerësimet",
+    "map": "Harta",
+    "backToHome": "Kthehu në Kreu"
+  },
+  "hero": {
+    "title": "Kalaja e Krujës",
+    "subtitle": "Kala Historike · Krujë, Shqipëria",
+    "rating": "4.6",
+    "reviewCount": "9,953 vlerësime",
+    "type": "Kala Historike",
+    "openMaps": "Shiko në Google Maps",
+    "mapsLink": "https://maps.app.goo.gl/z3Ak17fXyWwwntcB9"
+  },
+  "intro": {
+    "title": "Zbuloni Kalanë e Krujës",
+    "description": "Kalaja e Krujës është një kala historike në qytetin e Krujës, Shqipëri. Ajo ishte qendra e rebelimit të Skënderbeut kundër Perandorisë Osmane. Kalaja strehon Muzeun e Skënderbeut, Muzeun Kombëtar Etnografik dhe mbetjet e xhamisë së Sulltan Mehmetit Fatih, duke u ofruar vizitorëve një zhytje të thellë në historinë shqiptare.",
+    "visitGuide": {
+      "title": "Këshilla për Vizitën",
+      "items": [
+        "Eksploroni Pazarin e Vjetër të Krujës gjatë rrugës për në kala.",
+        "Mos humbisni Muzeun e Skënderbeut që ndodhet brenda mureve të kalasë.",
+        "Vishni këpucë të rehatshme pasi rrugicat janë të shtruara me kalldrëm.",
+        "Shijoni pamjet panoramike të maleve përreth dhe Detit Adriatik."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Pikat Kryesore",
+      "items": [
+        "Muzeu i Skënderbeut",
+        "Muzeu Kombëtar Etnografik",
+        "Pazari i Vjetër Historik",
+        "Pamje panoramike të Krujës"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Rreth Kalasë së Krujës",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Historia & Trashëgimia",
+        "content": "Kalaja e Krujës u ndërtua në shekullin e 5-të ose të 6-të dhe u bë e famshme gjatë shekullit të 15-të si selia e Gjergj Kastriot Skënderbeut. Nën udhëheqjen e tij, kalaja i bëri ballë tre rrethimeve masive nga Perandoria Osmane, duke u bërë simbol i rezistencës shqiptare."
+      },
+      {
+        "id": "geography",
+        "title": "Vendndodhja & Peizazhi",
+        "content": "E pozicionuar në një kodër shkëmbore mbi qytetin e Krujës, kalaja ofron një pamje mbizotëruese të peizazhit përreth. Vendndodhja e saj strategjike u mundësonte mbrojtësve të vëzhgonin ushtritë që afroheshin dhe të kontrollonin rrugët tregtare."
+      },
+      {
+        "id": "architecture",
+        "title": "Arkitektura & Rrethina",
+        "content": "Kalaja përmban mure të trasha mbrojtëse, kulla vrojtimi dhe mbetje të strukturave historike. Brenda, Muzeu modern i Skënderbeut, i projektuar nga vajza e Enver Hoxhës, ndërthur arkitekturën tradicionale shqiptare me elemente moderne."
+      },
+      {
+        "id": "protection",
+        "title": "Rëndësia Kulturore",
+        "content": "Sot, Kalaja e Krujës është një nga monumentet më të rëndësishme kulturore dhe historike të Shqipërisë. Ajo tërheq mijëra vizitorë çdo vit, të cilët vijnë për të mësuar rreth heroit kombëtar të vendit dhe trashëgimisë së tij të pasur."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Pyetjet e Bëra më Shpesh",
+    "items": [
+      {
+        "question": "Cilat janë oraret e hapjes së Kalasë së Krujës?",
+        "answer": "Ambjentet e kalasë zakonisht janë të hapura nga mëngjesi deri në mbrëmje. Muzetë brenda kanë orare specifike vizitash, zakonisht nga ora 9:00 e mëngjesit deri në 6:00 të pasdites."
+      },
+      {
+        "question": "A ka një tarifë hyrjeje?",
+        "answer": "Shëtitja nëpër ambjentet e kalasë është falas, por ka një tarifë hyrjeje për Muzeun e Skënderbeut dhe Muzeun Etnografik."
+      },
+      {
+        "question": "A ka turne me udhërrëfyes të disponueshëm?",
+        "answer": "Po, turnetë me udhërrëfyes janë të disponueshme në muze dhe mund të ofrojnë një kuptim më të pasur të historisë."
+      },
+      {
+        "question": "A është i aksesueshëm vendi për përdoruesit e karrigeve me rrota?",
+        "answer": "Për shkak të natyrës historike të vendit dhe rrugëve me kalldrëm, aksesueshmëria mund të jetë sfiduese për përdoruesit e karrigeve me rrota."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Informacion Themelor",
+    "officialName": "Emri Zyrtar",
+    "officialNameValue": "Kalaja e Krujës",
+    "type": "Lloji i Atraktimit",
+    "typeValue": "Kala Historike",
+    "country": "Shteti",
+    "countryValue": "Shqipëria",
+    "city": "Qyteti",
+    "cityValue": "Krujë",
+    "googleRating": "Vlerësimi në Google",
+    "googleRatingValue": "4.6 (9,953)",
+    "address": "Adresa",
+    "addressValue": "Rruga Kala, Krujë, Shqipëria",
+    "telephone": "Telefoni i Kontaktit",
+    "telephoneValue": "N/A",
+    "accessibility": "Aksesueshmëria",
+    "accessibilityValue": "E kufizuar për shkak të kalldrëmeve",
+    "plusCode": "Kodi Plus",
+    "plusCodeValue": "GQ4V+WQ Krujë, Shqipëria"
+  },
+  "hours": {
+    "title": "Oraret e Vizitave",
+    "park": "Aksesi në Kala",
+    "parkTime": "Hapur çdo ditë",
+    "bestTime": "Koha më e Mirë për të Vizituar",
+    "bestTimeSpring": "Pranverë: Mot i këndshëm për eksplorim",
+    "bestTimeSummer": "Verë: E zënë por e shkëlqyer për fotografi",
+    "bestTimeAutumn": "Vjeshtë: Temperatura të buta",
+    "bestTimeWinter": "Dimër: E qetë dhe paqësore",
+    "tip": "Vizitoni herët në mëngjes për të shmangur turmat dhe për të shijuar dritën më të mirë."
+  },
+  "tickets": {
+    "title": "Informacion mbi Hyrjen",
+    "park": "Ambjentet e Kalasë",
+    "parkPrice": "Akses publik falas",
+    "parking": "Parkimi",
+    "parkingPrice": "Parkim me pagesë në dispozicion afër",
+    "guided": "Muzetë",
+    "guidedPrice": "Kërkohet tarifë hyrjeje"
+  },
+  "transport": {
+    "title": "Si të Vini Këtu",
+    "fromCenter": "Nga Tirana",
+    "fromCenterDesc": "Rreth 45 minuta me makinë nga kryeqyteti.",
+    "fromStation": "Nga Qendra e Krujës",
+    "fromStationDesc": "Një shëtitje e shkurtër në kodër përmes Pazarit të Vjetër.",
+    "fromAirport": "Nga Aeroporti Ndërkombëtar i Tiranës",
+    "fromAirportDesc": "Rreth 30-40 minuta me taksi ose makinë me qira.",
+    "publicTransport": "Transporti Publik",
+    "publicTransportDesc": "Furgonat udhëtojnë rregullisht midis Tiranës dhe Krujës.",
+    "walking": "Në Këmbë",
+    "walkingDesc": "Kalaja është lehtësisht e aksesueshme në këmbë nga qendra e qytetit.",
+    "driving": "Me Makinë",
+    "drivingDesc": "Ndiqni tabelat për Krujë; parkimi është i disponueshëm pranë hyrjes."
+  },
+  "gallery": {
+    "title": "Galeria e Fotove",
+    "subtitle": "Bukuria e Kalasë së Krujës",
+    "captions": [
+      "Pamje e Kalasë",
+      "Muzeu i Skënderbeut",
+      "Pazari i Vjetër",
+      "Muret Historike",
+      "Pamje Panoramike",
+      "Muzeu Etnografik",
+      "Rrugë me Kalldrëm",
+      "Rrënojat e Kalasë",
+      "Sfondi Malor",
+      "Artizanate Tradicionale",
+      "Drita e Mbrëmjes",
+      "Detaje të Kullës",
+      "Pamje Skenike"
+    ],
+    "viewAll": "Shiko në Google Maps",
+    "showAll": "Shiko Të Gjitha Fotot",
+    "showLess": "Trego Më Pak"
+  },
+  "reviews": {
+    "title": "Vlerësimet e Vizitorëve",
+    "declaration": "Vlerësimet mund të shikohen përmes Google Maps.",
+    "moreReviews": "Shiko më shumë vlerësime në Google Maps",
+    "items": [
+      {
+        "name": "Sarah J.",
+        "rating": 5,
+        "date": "2026-05-12",
+        "text": "Një pjesë e mahnitshme e historisë! Pamjet nga kalaja janë spektakolare, dhe Muzeu i Skënderbeut është shumë informues."
+      },
+      {
+        "name": "Mark T.",
+        "rating": 5,
+        "date": "2026-04-20",
+        "text": "Të ecësh nëpër Pazarin e Vjetër për të shkuar në kala të bën të ndihesh sikur po kthehesh pas në kohë. E rekomandoj shumë një vizitë."
+      },
+      {
+        "name": "Elena R.",
+        "rating": 4,
+        "date": "2026-03-15",
+        "text": "Vend i bukur dhe histori e pasur. Vishni këpucë të rehatshme pasi kalldrëmet mund të jenë të vështira."
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "date": "2026-02-10",
+        "text": "Një vend që duhet parë në Shqipëri. Muzeu Etnografik jep një pamje të shkëlqyer të jetës tradicionale shqiptare."
+      },
+      {
+        "name": "Anna K.",
+        "rating": 5,
+        "date": "2025-11-05",
+        "text": "Arkitekturë mahnitëse dhe pamje të pabesueshme. Kaluam orë të tëra thjesht duke u endur nëpër ambjentet e kalasë."
+      },
+      {
+        "name": "Tom H.",
+        "rating": 4,
+        "date": "2025-10-18",
+        "text": "Vend i mrekullueshëm historik. Muzeu është i organizuar mirë dhe e gjithë zona është shumë fotogjenike."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Vendndodhja në Hartë",
+    "subtitle": "GQ4V+WQ Krujë, Shqipëria",
+    "openMaps": "Shiko në Google Maps"
+  },
+  "footer": {
+    "brandName": "Kalaja e Krujës",
+    "brandSubtitle": "Kala Historike · Krujë, Shqipëria",
+    "rights": "© 2026 Projekti i Pavarur Kërkimor i Turizmit · Të Gjitha të Drejtat e Rezervuara.",
+    "privacy": "Politika e Privatësisë",
+    "terms": "Kushtet e Shërbimit",
+    "cookies": "Cilësimet e Cookies",
+    "officialResourcesTitle": "Burimet & Informacioni Zyrtar",
+    "officialLinks": {
+      "akt": "Agjencia Kombëtare e Turizmit e Shqipërisë (AKT)",
+      "iktk": "Instituti Kombëtar i Trashëgimisë Kulturore (IKTK)",
+      "arkiva": "Drejtoria e Përgjithshme e Arkivave",
+      "asig": "Autoriteti Shtetëror për Informacionin Gjeohapësinor (ASIG)",
+      "visa": "Ministria për Evropën dhe Punët e Jashtme - Regjimi i Vizave"
+    },
+    "disclaimer": "Kjo faqe interneti është një projekt i pavarur turistik nga palë të treta. Ne nuk jemi të lidhur me qeverinë lokale apo ndonjë agjenci tjetër zyrtare."
+  },
+  "officialManagement": {
+    "title": "Rreth Kalasë së Krujës",
+    "text": "Kalaja e Krujës është një monument kombëtar i mbrojtur, duke ruajtur historinë dhe trashëgiminë e pasur të Shqipërisë."
+  },
+  "privacy": {
+    "title": "Politika e Privatësisë",
+    "lastUpdated": "Përditësuar së fundmi: Qershor 2026",
+    "sections": [
+      {
+        "heading": "Mbledhja e Informacionit",
+        "content": "Kur vizitoni faqen tonë të internetit, ne mund të mbledhim automatikisht informacione bazë rreth pajisjes suaj, shfletuesit dhe sjelljes së shfletimit për të ofruar një përvojë më të mirë për përdoruesin. Ky informacion nuk përmban identitetin tuaj personal."
+      },
+      {
+        "heading": "Përdorimi i Cookies",
+        "content": "Ne përdorim cookies për të analizuar trafikun e faqes në internet dhe për të optimizuar përmbajtjen e faqes. Mund t'i menaxhoni preferencat tuaja në çdo kohë përmes opsionit Cilësimet e Cookies në fund të faqes sonë."
+      },
+      {
+        "heading": "Siguria dhe Mbrojtja e të Dhënave",
+        "content": "Ne jemi të përkushtuar të mbrojmë sigurinë e të dhënave tuaja të privatësisë dhe nuk do të shesim, japim me qira ose tregtojmë të dhënat tuaja të shfletimit tek organizata komerciale të palëve të treta."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Kushtet e Shërbimit",
+    "lastUpdated": "Përditësuar së fundmi: Qershor 2026",
+    "sections": [
+      {
+        "heading": "Përmbajtja dhe Përdorimi i Faqes",
+        "content": "Kjo faqe interneti ofron informacione udhëtimi, transporti dhe historike rreth Kalasë së Krujës. E gjithë përmbajtja është vetëm për referencë. Oraret aktuale të hapjes dhe informacionet e atraksioneve mund të ndryshojnë në çdo kohë; ju lutemi referojuni njoftimeve zyrtare."
+      },
+      {
+        "heading": "Pronësia Intelektuale",
+        "content": "Teksti, imazhet dhe dizajnet në këtë faqe interneti mbrohen nga e drejta e autorit. Pa leje të qartë me shkrim, askush nuk mund të përdorë përmbajtjen e faqes në internet për qëllime komerciale."
+      },
+      {
+        "heading": "Mohim Përgjegjësie",
+        "content": "Ne përpiqemi të sigurojmë saktësinë dhe kohën e duhur të informacionit, por nuk marrim përgjegjësi ligjore për vonesat ose humbjet e udhëtimit të shkaktuara drejtpërdrejt ose tërthorazi nga përdorimi i informacionit të dhënë në këtë faqe interneti."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cilësimet e Cookies",
+    "description": "Menaxhoni preferencat tuaja të cookies.",
+    "essential": {
+      "title": "Cookies Thelbësore",
+      "description": "Të nevojshme për funksionalitetin bazë të faqes në internet dhe nuk mund të çaktivizohen.",
+      "badge": "Gjithmonë Aktive"
+    },
+    "analytics": {
+      "title": "Analitika",
+      "description": "Na ndihmoni të kuptojmë sjelljen e vizitorëve dhe të përmirësojmë faqen e internetit."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Përdoret për gjurmimin ndër-faqe dhe shpërndarjen e reklamave të personalizuara."
+    },
+    "save": "Ruaj Cilësimet"
+  }
+}
