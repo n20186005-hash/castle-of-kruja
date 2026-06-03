@@ -20,7 +20,6 @@ export default function BasicInfo() {
           <InfoCard title={t('officialName')} value={t('officialNameValue')} />
           <InfoCard title={t('type')} value={t('typeValue')} />
           <InfoCard title={t('googleRating')} value={t('googleRatingValue')} />
-          {t.has('telephone') && <InfoCard title={t('telephone')} value={t('telephoneValue')} />}
           {t.has('accessibility') && <InfoCard title={t('accessibility')} value={t('accessibilityValue')} />}
           <InfoCard title={t('plusCode')} value={t('plusCodeValue')} />
           <div className="md:col-span-2 lg:col-span-3">
@@ -35,8 +34,8 @@ export default function BasicInfo() {
 function InfoCard({ title, value }: { title: string; value: string }) {
   return (
     <div
-      className="rounded-xl p-5"
-      style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}
+      className="rounded-xl p-5 border"
+      style={{ background: 'var(--bg-tertiary)', borderColor: 'var(--border-color)' }}
     >
       <p className="text-sm mb-1" style={{ color: 'var(--text-muted)' }}>{title}</p>
       <p className="font-medium" style={{ color: 'var(--text-primary)' }}>{value}</p>

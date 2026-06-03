@@ -24,8 +24,8 @@ export default function HoursSection() {
         </div>
 
         <div
-          className="rounded-xl p-5 flex items-start gap-4"
-          style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--accent)' }}
+          className="rounded-xl p-5 flex items-start gap-4 border"
+          style={{ background: 'var(--bg-tertiary)', borderColor: 'var(--border-color)' }}
         >
           <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--accent)" strokeWidth="2" className="flex-shrink-0 mt-0.5">
             <circle cx="12" cy="12" r="10"/>

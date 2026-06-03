@@ -19,8 +19,8 @@ export default function TicketsSection() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
           {/* Park Free */}
           <div
-            className="rounded-2xl p-6 sm:p-8"
-            style={{ background: 'var(--bg-tertiary)', border: '2px solid var(--accent)' }}
+            className="rounded-2xl p-6 sm:p-8 border"
+            style={{ background: 'var(--bg-tertiary)', borderColor: 'var(--border-color)' }}
           >
             <div className="flex items-center gap-3 mb-4">
               <div
@@ -66,8 +66,8 @@ export default function TicketsSection() {
 
         {/* Guided Tour */}
         <div
-          className="mt-6 rounded-xl p-5 flex items-start gap-4"
-          style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--accent)' }}
+          className="mt-6 rounded-xl p-5 flex items-start gap-4 border"
+          style={{ background: 'var(--bg-tertiary)', borderColor: 'var(--border-color)' }}
         >
           <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--accent)" strokeWidth="2" className="flex-shrink-0 mt-0.5">
             <circle cx="12" cy="12" r="10"/>

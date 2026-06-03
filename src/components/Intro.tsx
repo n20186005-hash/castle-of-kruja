@@ -27,8 +27,8 @@ export default function Intro() {
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           <div
-            className="rounded-xl p-6 sm:p-8"
-            style={{ background: 'var(--bg-tertiary)' }}
+            className="rounded-xl p-6 sm:p-8 border"
+            style={{ background: 'var(--bg-tertiary)', borderColor: 'var(--border-color)' }}
           >
             <h3
               className="font-display text-xl font-semibold mb-4"
@@ -47,8 +47,8 @@ export default function Intro() {
           </div>
 
           <div
-            className="rounded-xl p-6 sm:p-8"
-            style={{ background: 'var(--bg-tertiary)' }}
+            className="rounded-xl p-6 sm:p-8 border"
+            style={{ background: 'var(--bg-tertiary)', borderColor: 'var(--border-color)' }}
           >
             <h3
               className="font-display text-xl font-semibold mb-4"
@@ -67,7 +67,7 @@ export default function Intro() {
           </div>
         </div>
 
-        <div className="mt-12 p-6 sm:p-8 rounded-xl border border-[var(--accent)]" style={{ background: 'var(--bg-tertiary)' }}>
+        <div className="mt-12 p-6 sm:p-8 rounded-xl border" style={{ background: 'var(--bg-tertiary)', borderColor: 'var(--border-color)' }}>
           <h2 className="font-display text-xl font-semibold mb-3" style={{ color: 'var(--text-primary)' }}>
             {tOff('title')}
           </h2>

@@ -130,18 +130,18 @@
   },
   "transport": {
     "title": "交通指南",
-    "fromCenter": "从地拉那出发",
-    "fromCenterDesc": "从首都驱车约需45分钟。",
+    "fromCenter": "从地拉那市中心出发",
+    "fromCenterDesc": "从地拉那市中心驾车或乘坐小巴（furgon）约需45分钟。沿着SH1高速公路向北行驶，然后转入SH38公路直达克鲁亚。",
     "fromStation": "从克鲁亚市中心",
-    "fromStationDesc": "穿过旧巴扎步行上山即可到达。",
+    "fromStationDesc": "穿过历史悠久的旧巴扎（Old Bazaar），沿着铺满鹅卵石的步行街向上走，约10-15分钟即可到达城堡入口。",
     "fromAirport": "从地拉那国际机场",
-    "fromAirportDesc": "乘坐出租车或租车约需30-40分钟。",
+    "fromAirportDesc": "乘坐出租车或租车约需30-40分钟。沿SH52公路行驶至SH1，然后转入SH38公路。",
     "publicTransport": "公共交通",
-    "publicTransportDesc": "地拉那和克鲁亚之间有定期的小巴（furgons）运行。",
+    "publicTransportDesc": "地拉那（从北站出发）和克鲁亚之间每天都有频繁运行的小巴。车程约1小时，下车后需步行前往城堡。",
     "walking": "步行",
-    "walkingDesc": "从镇中心可以轻松步行到达城堡。",
+    "walkingDesc": "抵达克鲁亚镇中心后，跟随“Kalaja”的指示牌，步行穿过巴扎即可抵达，路程非常近。",
     "driving": "自驾",
-    "drivingDesc": "跟随指示牌前往克鲁亚；入口附近有停车场。"
+    "drivingDesc": "跟随指示牌前往克鲁亚；城堡入口附近及镇中心有多处收费停车场可供使用。"
   },
   "gallery": {
     "title": "照片画廊",
@@ -232,7 +232,7 @@
   },
   "officialManagement": {
     "title": "关于克鲁亚城堡",
-    "text": "克鲁亚城堡是受保护的国家古迹，保留了阿尔巴尼亚丰富的历史和遗产。"
+    "text": "克鲁亚城堡是受保护的国家古迹，由阿尔巴尼亚文化部（Ministry of Culture of Albania）和国家文化遗产研究所（National Institute of Cultural Heritage, IKTK）共同管理和维护，旨在保护和传承阿尔巴尼亚丰富的历史与遗产。"
   },
   "privacy": {
     "title": "隐私政策",

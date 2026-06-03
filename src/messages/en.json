@@ -130,18 +130,18 @@
   },
   "transport": {
     "title": "How to Get Here",
-    "fromCenter": "From Tirana",
-    "fromCenterDesc": "A 45-minute drive from the capital city.",
+    "fromCenter": "From Tirana City Center",
+    "fromCenterDesc": "About a 45-minute drive or minibus (furgon) ride from Tirana. Take the SH1 highway north, then turn onto SH38 directly to Krujë.",
     "fromStation": "From Krujë Center",
-    "fromStationDesc": "A short walk up the hill through the Old Bazaar.",
+    "fromStationDesc": "A 10-15 minute walk up the hill through the historic Old Bazaar along the cobblestone pedestrian street to the castle entrance.",
     "fromAirport": "From Tirana International Airport",
-    "fromAirportDesc": "About 30-40 minutes by taxi or rental car.",
+    "fromAirportDesc": "About 30-40 minutes by taxi or rental car. Take SH52 to SH1, then turn onto SH38.",
     "publicTransport": "Public Transport",
-    "publicTransportDesc": "Minibuses (furgons) run regularly between Tirana and Krujë.",
+    "publicTransportDesc": "Minibuses run frequently every day between Tirana (from the North Bus Terminal) and Krujë. The ride takes about 1 hour.",
     "walking": "Walking",
-    "walkingDesc": "The castle is easily accessible on foot from the town center.",
+    "walkingDesc": "Once in Krujë town center, follow the signs for 'Kalaja' and walk through the bazaar. It is a very short distance.",
     "driving": "Driving",
-    "drivingDesc": "Follow signs to Krujë; parking is available near the entrance."
+    "drivingDesc": "Follow signs to Krujë; there are several paid parking lots available near the castle entrance and in the town center."
   },
   "gallery": {
     "title": "Photo Gallery",
@@ -232,7 +232,7 @@
   },
   "officialManagement": {
     "title": "About Castle of Kruja",
-    "text": "The Castle of Kruja is a protected national monument, preserving the rich history and heritage of Albania."
+    "text": "The Castle of Kruja is a protected national monument, managed and maintained by the Ministry of Culture of Albania and the National Institute of Cultural Heritage (IKTK), preserving the rich history and heritage of Albania."
   },
   "privacy": {
     "title": "Privacy Policy",

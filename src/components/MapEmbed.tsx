@@ -20,8 +20,8 @@ export default function MapEmbed() {
 
         {/* Map */}
         <div
-          className="map-container relative rounded-xl overflow-hidden"
-          style={{ border: '1px solid var(--map-border)' }}
+          className="map-container relative rounded-xl overflow-hidden border"
+          style={{ borderColor: 'var(--map-border)' }}
         >
           {/*
             NOTE: Google Maps attribution is hidden via CSS (.gm-style-cc, .gmnoprint).

@@ -21,7 +21,7 @@ export default function FAQSection() {
             <div 
               key={index}
               className="p-6 rounded-xl border"
-              style={{ background: 'var(--bg-tertiary)', borderColor: 'var(--accent)' }}
+              style={{ background: 'var(--bg-tertiary)', borderColor: 'var(--border-color)' }}
             >
               <h3
                 className="font-display text-xl font-semibold mb-3 flex items-start gap-3"
@@ -31,7 +31,7 @@ export default function FAQSection() {
                 {item.question}
               </h3>
               <div
-                className="text-lg leading-relaxed flex items-start gap-3"
+                className="text-base leading-relaxed flex items-start gap-3"
                 style={{ color: 'var(--text-secondary)' }}
               >
                 <span className="text-[var(--accent)] font-bold">A:</span>

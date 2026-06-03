@@ -99,19 +99,16 @@ export default function TransportSection() {
 function TransportCard({ icon, title, description }: { icon: ReactNode; title: string; description: string }) {
   return (
     <div
-      className="rounded-xl p-5 flex gap-4"
-      style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}
+      className="rounded-xl p-6 border"
+      style={{ background: 'var(--bg-tertiary)', borderColor: 'var(--border-color)' }}
     >
-      <div
-        className="flex-shrink-0 w-12 h-12 rounded-full flex items-center justify-center"
-        style={{ background: 'var(--accent)', color: 'white' }}
-      >
-        {icon}
+      <div className="flex items-center gap-3 mb-3" style={{ color: 'var(--accent)' }}>
+        <div className="p-2 rounded-lg bg-white/50 dark:bg-black/20">
+          {icon}
+        </div>
+        <h3 className="font-display text-xl font-semibold" style={{ color: 'var(--text-primary)' }}>{title}</h3>
       </div>
-      <div>
-        <h3 className="font-semibold mb-1" style={{ color: 'var(--text-primary)' }}>{title}</h3>
-        <p className="text-sm leading-relaxed" style={{ color: 'var(--text-secondary)' }}>{description}</p>
-      </div>
+      <p className="text-base leading-relaxed" style={{ color: 'var(--text-secondary)' }}>{description}</p>
     </div>
   );
 }

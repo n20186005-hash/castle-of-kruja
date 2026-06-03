@@ -130,18 +130,18 @@
   },
   "transport": {
     "title": "Si të Vini Këtu",
-    "fromCenter": "Nga Tirana",
-    "fromCenterDesc": "Rreth 45 minuta me makinë nga kryeqyteti.",
+    "fromCenter": "Nga Qendra e Tiranës",
+    "fromCenterDesc": "Rreth 45 minuta me makinë ose furgon nga Tirana. Merrni autostradën SH1 në veri, pastaj kthehuni në SH38 drejtpërdrejt për në Krujë.",
     "fromStation": "Nga Qendra e Krujës",
-    "fromStationDesc": "Një shëtitje e shkurtër në kodër përmes Pazarit të Vjetër.",
+    "fromStationDesc": "Një ecje 10-15 minuta në kodër përmes Pazarit të Vjetër historik përgjatë rrugës pedonale me kalldrëm deri te hyrja e kalasë.",
     "fromAirport": "Nga Aeroporti Ndërkombëtar i Tiranës",
-    "fromAirportDesc": "Rreth 30-40 minuta me taksi ose makinë me qira.",
+    "fromAirportDesc": "Rreth 30-40 minuta me taksi ose makinë me qira. Merrni SH52 për në SH1, pastaj kthehuni në SH38.",
     "publicTransport": "Transporti Publik",
-    "publicTransportDesc": "Furgonat udhëtojnë rregullisht midis Tiranës dhe Krujës.",
+    "publicTransportDesc": "Furgonët udhëtojnë shpesh çdo ditë midis Tiranës (nga Terminali i Veriut) dhe Krujës. Udhëtimi zgjat rreth 1 orë.",
     "walking": "Në Këmbë",
-    "walkingDesc": "Kalaja është lehtësisht e aksesueshme në këmbë nga qendra e qytetit.",
+    "walkingDesc": "Sapo të jeni në qendër të qytetit të Krujës, ndiqni tabelat për 'Kalaja' dhe ecni përmes pazarit. Është një distancë shumë e shkurtër.",
     "driving": "Me Makinë",
-    "drivingDesc": "Ndiqni tabelat për Krujë; parkimi është i disponueshëm pranë hyrjes."
+    "drivingDesc": "Ndiqni tabelat për në Krujë; ka disa parkingje me pagesë të disponueshme pranë hyrjes së kalasë dhe në qendër të qytetit."
   },
   "gallery": {
     "title": "Galeria e Fotove",
@@ -232,7 +232,7 @@
   },
   "officialManagement": {
     "title": "Rreth Kalasë së Krujës",
-    "text": "Kalaja e Krujës është një monument kombëtar i mbrojtur, duke ruajtur historinë dhe trashëgiminë e pasur të Shqipërisë."
+    "text": "Kalaja e Krujës është një monument kombëtar i mbrojtur, i menaxhuar dhe mirëmbajtur nga Ministria e Kulturës e Shqipërisë dhe Instituti Kombëtar i Trashëgimisë Kulturore (IKTK), duke ruajtur historinë dhe trashëgiminë e pasur të Shqipërisë."
   },
   "privacy": {
     "title": "Politika e Privatësisë",

@@ -53,11 +53,11 @@ export default function Reviews() {
           {items.map((review, i) => (
             <div
               key={i}
-              className="rounded-xl p-5 sm:p-6 transition-shadow hover:shadow-md"
+              className="rounded-xl p-5 sm:p-6 transition-shadow hover:shadow-md border"
               style={{
                 background: 'var(--card-bg)',
                 boxShadow: 'var(--card-shadow)',
-                border: '1px solid var(--border-color)',
+                borderColor: 'var(--border-color)',
               }}
             >
               <div className="flex items-start justify-between mb-3">
